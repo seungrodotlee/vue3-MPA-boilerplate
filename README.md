@@ -1,4 +1,4 @@
-# vue3-tailwind-boilerplate
+# vue3-MPA-boilerplate
 
 ## Project setup
 ```
